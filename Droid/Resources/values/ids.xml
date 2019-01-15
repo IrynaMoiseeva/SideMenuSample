@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <item name="view_root" type="id"/>
+    <item name="view_content" type="id"/>
+    <item name="card_content_clickable" type="id"/>
+    <item name="swipe_refresh" type="id"/>
+    <item name="recycler_view" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="fragment_host" type="id"/>
+    <item name="empty_list_stub" type="id"/>
+    <item name="card_swipe_to_action_result" type="id"/>
+    <item name="card_swipe_to_action_content" type="id"/>
+    <item name="app_bar" type="id"/>
+</resources>

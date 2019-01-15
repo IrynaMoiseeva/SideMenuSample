@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <dimen name="halfHalfBaseMargin">4dp</dimen>
+    <dimen name="halfBaseMargin">8dp</dimen>
+    <dimen name="baseMargin">16dp</dimen>
+    <dimen name="bigMargin">24dp</dimen>
+    <dimen name="commonDividerHeight">1dp</dimen>
+    <dimen name="menuItemLeftMargin">@dimen/baseMargin</dimen>
+    <dimen name="bottomNavigationBarHeight">49dp</dimen>
+    <dimen name="appBarDefaultElevation">4dp</dimen>
+    <dimen name="fabDefaultElevation">6dp</dimen>
+    <dimen name="challengesNoDataStubMarginBottom">152dp</dimen>
+    <dimen name="buttonHeight">48dp</dimen>
+    <dimen name="app_bar_height">120dp</dimen>
+</resources>
